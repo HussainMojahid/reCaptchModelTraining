@@ -257,7 +257,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-archive/
 archive.zip
 stair dataset.zip
 stairdataset
